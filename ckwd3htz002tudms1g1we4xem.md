@@ -44,7 +44,7 @@ In order to cope up with these issue, you have to ask few questions from youself
 2. What value will this product  add into my life ? 
 3. Do I really need it or I am buying it just for flexing ?
 
-When you complete this checklist, you'll get a better decision making for the products. Now, you can diffentiate between what you need and what they wanted to sell you forcefully.
+When you complete this checklist, you'll get a better decision making for the products. Now, you can differentiate between what you need and what they wanted to sell you forcefully.
 
 
 > *Now that said, dear reader, whoever you are. Thank you for reading, and I hope you have a wonderful day.*
