@@ -15,13 +15,13 @@ Let's talk about what an average consumer expect and really get from companies.
 
 # Consumer's Expectation and Reality
 
-### Expectation -
+### Expectation
 1. Companies will identify what problem customers are facing in their day-to-day life as well as in business tasks.
 2. Finally come up with a product that solves all of them at once.
 
 > Most of the companies don't work like that, what they really do is...
 
-### Reality -
+### Reality
 1. Companies create a new problem that never actually existed.
 2. Make that problem really harder to get solved.
 3. Come up with multiple products which adds up and pretend to solve each of your problems and satisfies (fools) the customer.
